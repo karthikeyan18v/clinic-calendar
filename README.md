@@ -21,7 +21,7 @@ A lightweight, responsive React application that allows clinic staff to manage d
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/your-username/appointment-calendar.git
+git clone https://github.com/karthikeyan18v/appointment-calendar.git
 cd appointment-calendar
 
 Install Dependencies
